@@ -9,6 +9,6 @@ package Herencia;
  *
  * @author antho
  */
-public class Materiales {
-    
+public class Material {
+
 }
